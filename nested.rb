@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-x = 31
+programmer_hash
 
 end
 
