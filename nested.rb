@@ -16,6 +16,7 @@ def hopper
         }
      }
 
+x = 31
 
 end
 
